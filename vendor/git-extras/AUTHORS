@@ -1,0 +1,164 @@
+git-extras is written and maintained by TJ Holowaychuk and
+various contributors:
+
+Development Lead
+````````````````
+- TJ Holowaychuk <tj@vision-media.ca>
+
+Maintainers
+```````````
+- Hemanth.HM <hemanth.hm@gmail.com>
+- Nimit Kalra <me@nimit.io>
+- Nicolai Skogheim <nicolai.skogheim@gmail.com>
+- spacewander <spacewanderlzx@gmail.com>
+
+Patches and Suggestions
+```````````````````````
+- Jonhnny Weslley
+- LeeW
+- nickl-
+- timfeirg
+- CJ
+- Mark Eissler
+- Leila Muhtasib
+- Jesús Espino
+- Jan Schulz
+- Andrew Janke
+- David Baumgold
+- Kenneth Reitz
+- Luke Childs
+- Sasha Khamkov
+- Yi EungJun
+- grindhold
+- Damian Krzeminski
+- Chris Hall
+- Aggelos Orfanakos
+- NANRI
+- Camille Reynders
+- Rico Sta. Cruz
+- Takuma Yamaguchi
+- Rémy HUBSCHER
+- Phally
+- Alexander Krasnukhin
+- wooorm
+- Philipp Klose
+- Julio Napurí
+- Brian J Brennan
+- Ivan Malopinsky
+- gisphm
+- Hogan Long
+- Jonathan "Duke" Leto
+- Nils Winkler
+- Jean Jordaan
+- Alexis GRIMALDI
+- Allan Odgaard
+- Andre Cerqueira
+- Curtis McEnroe
+- David Rogers
+- Devin Withers
+- Domenico Rotiroti
+- Evan Grim
+- Florian H
+- Gert Van Gool
+- Guillaume Seren
+- Hozefa
+- Justin Guenther
+- Kylie McClain
+- Marc Harter
+- Matiss
+- Nate Jones
+- Newell Zhu
+- Patryk Małek
+- Paul Schreiber
+- Richard Littauer
+- Tom Vincent
+- Wil Moore III
+- William Montgomery
+- go2null
+- luozexuan
+- phigoro
+- soffolk
+- George Crabtree
+- Emil Kjelsrud
+- jykntr
+- Dung Quang
+- Kevin Woo
+- Konstantin Schukraft
+- zeroDivisible
+- Leandro López
+- David Hartmann
+- Dave James Miller
+- Maarten Winter
+- meza
+- Daniel Schildt
+- Mathieu D. (MatToufoutu)
+- neydroid
+- Matt Colyer
+- Matthew Avant
+- Michael Komitee
+- Michael Matuzak
+- Moritz Grauel
+- Dan Jackson
+- Nate Fischer
+- Andrei Petcu
+- Nathan Rajlich
+- nulltask
+- Nick Campbell
+- Nick Payne
+- Damien Tardy-Panis
+- Niklas Fiekas
+- Craig MacGregor
+- Ciro Nunes
+- ☃ pitr
+- Carlos Rodríguez
+- Carl Casbolt
+- Prayag Verma
+- R. Martinho Fernandes
+- Raphael Fleischlin
+- Rasmus Wriedt Larsen
+- Riceball LEE
+- Akim Demaille
+- Bruno Sutic
+- Rob Kennedy
+- Ryan Bohn
+- Brandon Zylstra
+- Sam Thursfield
+- Ben Parnell
+- Stefan VanBuren
+- Stephen Mathieson
+- Steve Mao
+- Balazs Nadasdi
+- Aurélien Scoubeau
+- Antoine Beaupré
+- Todd Wolfson
+- Tom Ashworth
+- Tony
+- TweeKane
+- Valérian Galliat
+- Ammar Najjar
+- Amir Tocker
+- Xiaopei Li
+- Andy
+- creynders
+- dead-horse
+- eszabpt
+- Andrey Elizarov
+- Alex McHale
+- Andrew Starr-Bochicchio
+- Andrew Marcinkevičius
+- Jan Krueger
+- James Manning
+- Jarod Stewart
+- Jason Young
+- Adam Parkin
+- Jens K. Mueller
+- Jesse Sipprell
+- Gunnlaugur Thor Briem
+- Jianjin Fan
+- Johannes Ewald
+- John Evans
+- John Hoffmann
+- Jon Ander Peñalba
+- Guillermo Rauch
+- Greg Allen
+- Joshua Appelman
