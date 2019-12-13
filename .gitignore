@@ -16,7 +16,7 @@
 /link/.rbenv/version
 
 #Dont't commit vscode extension
-/link/.vscode/extension/
+/link/.vscode/extensions/
 
 # Don't commit tmux plugins, tpm will install them.
 /link/.tmux/plugins
