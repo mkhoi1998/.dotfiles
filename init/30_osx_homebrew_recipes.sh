@@ -16,7 +16,7 @@ recipes=(
   jq
   the_silver_searcher
   ccat
-  emacs-plus
+  neovim
 
   # language
   go

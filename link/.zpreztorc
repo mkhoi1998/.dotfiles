@@ -32,10 +32,12 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
+  'contrib-prompt' \
   'prompt' \
   'syntax-highlighting' \
   'git' \
   'command-not-found' \
+  'history-substring-search' \
   'homebrew' \
   'ssh' \
   'osx' \
@@ -102,7 +104,7 @@ zstyle ':prezto:module:editor' dot-expansion 'yes'
 # Auto set to 'off' on dumb terminals.
 # zstyle ':prezto:module:prompt' theme 'sorin'
 # zstyle ':prezto:module:prompt' theme 'agnoster'
-zstyle ':prezto:module:prompt' theme 'paradox'
+zstyle ':prezto:module:prompt' theme 'spaceship'
 # zstyle ':prezto:module:prompt' theme 'kylewest'
 
 #
@@ -174,3 +176,4 @@ zstyle ':prezto:module:terminal:tab-title' format '%m: %s'
 
 # Integrate with iTerm2.
 zstyle ':prezto:module:tmux:iterm' integrate 'yes'
+
